@@ -1,5 +1,5 @@
-Header Flush
-============
+Express HTML Header Flush
+=========================
 
 This project is a tech demo that shows how to use the
 header flush technique.
