@@ -1,0 +1,14 @@
+{
+  "name": "headerflush",
+  "version": "1.0.0",
+  "description": "Flush the header before the body to fallback http2 push behavior.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Reitz Giannattasio <g@gartz.me>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
